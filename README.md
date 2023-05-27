@@ -9,6 +9,13 @@ This is a image viewer, made with Tkinter and PIL in python.
 ## How to use it?
 1. First click on the button that says "Folder".
 ![](https://github.com/ExoticGamerrrYT/image-viewer/blob/main/images/how%20to%20use%20-%201.png)
+2. When you select a folder the files in there will be show.
+![](https://github.com/ExoticGamerrrYT/image-viewer/blob/main/images/how%20to%20use%20-%202.png)
+3. If you click on the names, the image will be show.
+![](https://github.com/ExoticGamerrrYT/image-viewer/blob/main/images/how%20to%20use%20-%203.png)
+
+> **_The buttons in the bottom don't work_**
+![](https://github.com/ExoticGamerrrYT/image-viewer/blob/main/images/how%20to%20use%20-%20exception.png)
 
 ### Contact
 
