@@ -8,7 +8,7 @@ This is a image viewer, made with Tkinter and PIL in python.
 
 ## How to use it?
 1. First click on the button that says "Folder".
-![]
+![](https://github.com/ExoticGamerrrYT/image-viewer/blob/main/images/how%20to%20use%20-%201.png)
 
 ### Contact
 
@@ -24,4 +24,4 @@ o.   .88P   .o8"'88b   888   888   888 .  888  888   .o8   .8'  .8'       .oP   
 
 
 ```
-`3xotic#2903`# image-viewer
+`3xotic#2903`
